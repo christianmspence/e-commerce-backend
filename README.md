@@ -1,4 +1,4 @@
-# E-commerce Back End Starter Code
+# E-commerce Back End
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
   ## Description
