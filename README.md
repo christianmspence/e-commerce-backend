@@ -21,24 +21,24 @@
   7. [Questions](#questions)
 
   ## Installation
-* Clone repository to local machine
-* npm init
-* npm install mysql2
-* npm install sequelize
-* npm install dotenv
-* mysql -u root -p
-* SOURCE db/schema.sql
-* use ecommerce_db
-* Quit mysql
-* npm run seeds
-* npm start
+  * Clone repository to local machine
+  * npm init
+  * npm install mysql2
+  * npm install sequelize
+  * npm install dotenv
+  * mysql -u root -p
+  * SOURCE db/schema.sql
+  * use ecommerce_db
+  * Quit mysql
+  * npm run seeds
+  * npm start
 
   ## Usage
   View usage walk-thru video by clicking the google drive link below
   https://drive.google.com/file/d/1leq45kXDqLbRv5HMqrWUqvhLvr8XwoPA/view
 
   ## Credits
-Matthew Christian Spence
+  Matthew Christian Spence
 
   ## License
   This project is ocevered under the MIT license. To learn more about this license, please click the license button at the top of the README.
